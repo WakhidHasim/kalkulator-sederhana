@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="first_value">Enter the First Value</string>
+    <string name="second_value">Enter the Second Value</string>
+    <string name="multiplication">X</string>
+    <string name="division">:</string>
+    <string name="addition">+</string>
+    <string name="reduction">-</string>
+    <string name="output">Output</string>
+    <string name="output_value">0</string>
+</resources>
